@@ -1,0 +1,601 @@
+Image,Label,Label_ID
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2401.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7425.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-156.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4890.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4850.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-388.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7789.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-10177.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2312.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5173.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3046.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1084.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-811.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-23.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5930.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1103.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1692.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1655.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-997.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8762.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2278.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4198.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2344.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-159.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6697.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3632.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6332.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2678.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2944.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2135.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7843.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3331.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1101.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1400.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7056.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1176.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5821.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-433.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-557.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3080.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2729.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3481.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6002.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-779.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-802.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-649.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-980.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-527.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1724.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5008.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3457.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4115.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1210.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1502.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-94.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8563.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-990.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-998.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6280.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-266.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-40.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4644.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6358.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-712.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-482.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4698.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1179.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1957.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4227.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1322.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-560.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1184.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-946.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1433.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1224.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5077.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-876.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4675.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5485.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1201.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1200.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1408.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4466.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2940.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5061.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3398.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-296.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9951.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2055.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8294.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1320.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-375.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5042.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1896.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1035.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3042.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1027.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-565.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-966.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1433.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1180.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2136.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2157.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-649.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-664.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-231.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1649.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2161.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1018.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1873.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-377.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-133.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-330.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-496.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4967.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6905.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2110.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-696.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-129.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-863.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-283.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-577.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-57.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-650.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1648.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5594.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5169.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7300.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3903.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1990.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3835.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1317.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6561.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3236.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2446.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2884.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-131.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7334.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-771.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2392.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3582.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-308.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-305.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1418.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-891.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1816.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-948.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-417.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-429.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5519.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4699.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7053.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7305.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5330.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5924.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-610.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-228.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-580.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2096.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-922.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-843.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1273.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1219.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-708.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5755.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3530.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1819.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3865.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4514.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-66.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-207.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-754.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3406.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-391.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6778.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1099.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1613.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-803.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1296.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8571.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2132.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3181.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2129.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1096.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1935.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-649.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1633.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1484.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-990.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1031.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4647.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-244.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-21.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1884.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1295.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2916.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-593.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2519.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3881.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5645.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1719.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-229.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2570.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-729.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8968.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9488.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1052.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-888.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4980.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8973.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4427.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-594.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1917.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-181.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-488.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3439.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4769.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-725.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-427.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-857.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3688.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1417.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5365.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1653.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4783.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1059.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-823.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-489.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2773.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1008.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1296.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2517.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2099.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3881.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3605.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-693.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-176.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1030.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-129.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6509.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2153.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1110.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-234.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3214.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2584.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4383.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1298.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2543.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2411.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3120.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1978.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-448.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2281.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-575.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4355.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-828.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1430.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2808.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8319.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-578.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1832.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-35.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1489.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4896.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2227.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-146.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6876.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8460.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9450.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1297.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1263.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2997.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-885.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5804.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5878.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7941.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1739.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2447.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-786.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-98.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3155.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-744.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-413.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3907.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1095.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1561.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1854.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8042.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3364.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8975.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-728.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3223.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-10060.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1270.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2942.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-269.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-860.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6315.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3118.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-25.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1114.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3093.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4579.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5458.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5226.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3335.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4380.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3345.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4959.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-348.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3171.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-837.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1780.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6512.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1377.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1722.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9220.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9681.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-345.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3050.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1065.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2291.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-10112.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-957.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4031.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-561.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1197.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-743.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2899.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-738.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-991.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-524.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-245.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8991.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-152.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6501.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-776.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2130.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2403.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5453.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2103.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9613.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4528.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-876.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-324.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1775.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4518.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5317.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5815.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7278.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-568.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1505.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-513.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-449.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-464.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-64.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3070.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2084.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2267.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-132.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-521.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-659.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-800.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3818.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1219.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-953.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1628.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-741.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-37.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1032.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1693.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3731.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-501.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4865.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3831.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-631.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-90.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-34.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2943.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3791.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5585.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-892.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-709.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3300.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4491.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2937.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2428.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3072.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-695.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7364.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7461.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1277.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-89.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-739.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2866.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-455.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-238.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1334.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3941.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-385.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-974.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2093.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-574.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-826.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1182.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3156.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3864.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1310.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2719.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3128.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-328.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-65.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-224.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1376.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-498.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2063.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2798.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5449.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3010.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-427.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-986.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2405.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-123.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1108.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-679.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2863.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-186.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7632.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7044.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4694.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5897.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2619.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1341.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1113.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-631.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-865.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2369.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3463.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3352.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3492.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2197.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9687.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4965.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1838.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1275.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1763.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5548.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-902.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1179.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-530.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1958.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8884.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-681.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5852.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2324.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-721.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-634.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-785.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1962.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6473.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1827.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1318.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7352.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7129.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4854.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-87.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-420.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1290.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-926.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-590.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2705.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5000.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5698.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7969.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1170.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2486.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5361.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1250.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1657.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-617.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1392.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1230.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2172.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2472.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1988.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2615.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1260.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2851.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2212.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4101.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1832.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2086.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-528.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2053.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-693.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5032.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5561.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-8983.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-74.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9453.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-6566.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-549.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3398.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3308.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3085.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5280.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1233.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-389.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-3548.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7320.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-747.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7367.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-161.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5745.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4264.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5563.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-104.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4385.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4682.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5511.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3370.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3353.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3203.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4425.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1398.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-608.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3430.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1475.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2726.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2524.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4867.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-966.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-578.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5473.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-2978.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3360.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-4899.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-926.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5509.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-582.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1327.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4736.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2328.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1454.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2712.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-157.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4069.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2443.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1046.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-752.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-486.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5454.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3656.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5106.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-238.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5277.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-257.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-12.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5838.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-635.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-705.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1044.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3474.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-60.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7086.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-706.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3187.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3613.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-5950.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-812.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-150.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-5221.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4955.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-36.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-52.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-853.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2465.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3002.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1458.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-1357.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2004.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-9697.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1012.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-227.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-343.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3822.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-4648.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-3230.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2177.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-7669.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-290.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2139.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-2533.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-1476.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-1529.png,Lung_Opacity,1
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Viral Pneumonia/images/Viral Pneumonia-1216.png,Viral Pneumonia,3
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2147.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/COVID/images/COVID-2707.png,COVID,0
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Normal/images/Normal-49.png,Normal,2
+/content/COVID19_Dataset/COVID-19_Radiography_Dataset/Lung_Opacity/images/Lung_Opacity-3636.png,Lung_Opacity,1

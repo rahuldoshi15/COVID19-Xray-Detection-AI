@@ -1,0 +1,15 @@
+============================================================
+COVID-19 X-RAY DETECTION MODEL COMPARISON REPORT
+============================================================
+
+MODEL PERFORMANCE SUMMARY
+------------------------------------------------------------
+      Model  Best Epoch  Training Accuracy  Validation Accuracy  Training Loss  Validation Loss
+MobileNetV2           9              87.32                86.33         0.3456           0.3798
+ Custom CNN          10              86.43                78.17         0.3571           0.5337
+
+BEST MODEL
+------------------------------------------------------------
+Selected Model : MobileNetV2
+Validation Accuracy : 86.33%
+Validation Loss : 0.3798
